@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:05:00.637962
+# -*- mode: mandoku-view -*-
 #+TITLE: 原陽子法語
-#+PROPERTY: DZID  DZ1071
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—80 二卷 太玄部
+#+DATE: 2015-08-29 02:05:01
+#+PROPERTY:  LASTPB <PB KR5d0094_SJB_002-240086a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5d0094_HFL_002-011b>¶¶¶¶¶¶¶¶¶¶¶
+
