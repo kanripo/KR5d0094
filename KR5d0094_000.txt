@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:05:00.637962
+#+TITLE: 原陽子法語
+#+PROPERTY: DZID  DZ1071
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—80 二卷 太玄部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
